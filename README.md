@@ -28,14 +28,6 @@ Implemented:
 Python • TensorFlow • Keras • YOLOv8 • Kotlin
 
 
-### 📱 Employee Leave Management System
-
-A mobile-based application designed to manage employee leave requests with API integration and database management.
-
-**Tech Stack:**  
-Flutter • Kotlin • PHP • MySQL
-
-
 ### 📊 Social Media Crawling
 
 A Python-based data collection system for gathering information from Instagram, YouTube, and X for further analysis.
